@@ -1,0 +1,16 @@
+{
+  "name": "Dropnest | A home of all your airdrops",
+  "short_name": "Dropnest",
+  "description": "Dozens of airdrops. One Dropnest. Farm hundreds of airdrops in one click",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#25dd37",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
